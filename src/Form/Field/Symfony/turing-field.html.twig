@@ -1,0 +1,7 @@
+{# src/TuringTest/Form/Field/Symfony/turing-field.html.twig #}
+{% block turing_widget %}
+    {% spaceless %}
+        <span class="ask">{{ ask }}</span>
+        {{ block('text_widget') }}
+    {% endspaceless %}
+{% endblock %}

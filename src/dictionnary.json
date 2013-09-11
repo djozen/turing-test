@@ -1,0 +1,27 @@
+{
+    "ask":
+    [
+        "Indiquer le résultat de la somme de %x et %y",
+        "Indiquer le plus grand nombre entre %x et %y",
+        "Indiquer la lettre n°%u du mot \"%mot_z\"",
+        "Indiquer le plus petit nombre entre %x et %y"
+    ],
+    "answer":{
+        "words": [
+            "Programmation",
+            "Variable",
+            "Interface",
+            "Apprentissage",
+            "Internationalisation",
+            "Anticonstitutionnellement",
+            "Generali",
+            "Epargne"
+        ]
+    },
+    "result": [
+        "addition(x,y)",
+        "_max(x,y)",
+        "letterOfWord(u,mot_z)",
+        "_min(x,y)"
+    ]
+}
